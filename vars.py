@@ -7,6 +7,6 @@ API_ID = int(environ.get("API_ID", "28021723"))
 API_HASH = environ.get("API_HASH", "f6b0736c56e8544e6d55b7c4ef169a68")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 OWNER = int(environ.get("OWNER", "6312174113"))
-CREDIT = "𝄟⃝‌🐬🇳‌Mahendra𝄟⃝🐬"
+CREDIT = "𝄟⃝‌🐬Mahendra𝄟⃝🐬"
 #WEBHOOK = True  # Don't change this
 #PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
